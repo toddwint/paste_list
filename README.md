@@ -28,9 +28,9 @@ Launch the program. If it opens in IDLE, click `Run` > `Run Module`.
 
 Test the program out. Open a text editor. Click the cycle forward and cycle backward keys (defaults are F3 and F4). If it types the text, it is working.
 
-Create text file lists of things you would like to paste. Or use my vars file example before to create a text file and substitute those variables during import. You can save the file for later use too. Just remember the next time you will import it as just a plain text file, not one with vars.
+Create text file lists of things you would like to paste. Or use my vars file example below to create a text file and substitute those variables during import. You can save the file for later use too. Just remember the next time you will import it as just a plain text file, not one with vars.
 
-If you want to add lines without using a text file, you can hook the clipboard. Then anythin you copy is added to the paste list. Don't forget to unhook it or you might be surprised more things are added to the list.
+If you want to add lines without using a text file, you can hook the clipboard. Then anything you copy is added to the paste list. Don't forget to unhook it, or you might be surprised more things are added to the list.
 
 
 ## Notes
