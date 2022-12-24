@@ -1,0 +1,4 @@
+# to download and install 3rd party packages needed use this command
+# pip install -r requirements.txt
+pynput
+pyperclip
