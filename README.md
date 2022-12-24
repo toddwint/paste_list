@@ -15,6 +15,13 @@
 - This program was created to replace another software I was depending on but which has not been updated since 2010 or 2012: 
   - [ClipCycler](https://sourceforge.net/projects/clipcycler/).
 
+## Screenshots
+
+![Windows](./images/Windows.png)
+
+![macOS](./images/macOS.png)
+
+![Linux](./images/Linux.png)
 
 ## Installing and Running
 
